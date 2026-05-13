@@ -1,2 +1,16 @@
-# optimization-algorithms
-Implementations of optimization algorithms
+# Optimization Algorithms
+
+最適化アルゴリズムの実装集です。
+主にJavaを用いて実装することが多いですが、目的に応じて別言語でも追加するかもしれません。  
+2024年に書いたものですが枯れた技術を使うようにしているので問題なく動くと思います。
+
+## 実装内容
+- 区間スケジューリング
+- 貪欲法
+- Union-Find
+- 最小全域木
+- 動的計画法
+- 最長共通部分列探索
+
+## 目的
+アルゴリズム理解とシステム開発への応用を目的として実装しました。
